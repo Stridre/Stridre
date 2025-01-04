@@ -1,4 +1,2 @@
-cybersecurity
-pentester
-networking
-malware dev
+computer science major
+im also gay
